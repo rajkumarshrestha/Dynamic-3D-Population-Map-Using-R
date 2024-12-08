@@ -49,6 +49,3 @@ This project showcases how R can be used to create interactive 3D maps that tran
 The population data for this project is sourced from the **Kontur population dataset**. You can download the dataset from the following link:  
 [Kontur Population Dataset - Japan](https://data.humdata.org/dataset/kontur-population-japan)  
 
---- 
-
-This README provides a clear, concise overview of the project, its requirements, and its outcomes.
